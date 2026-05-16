@@ -4,6 +4,6 @@
     "PUNHO": ["VT", "MP", "PO", "IN"],
     "CORONHA": ["TS", "PA", "PP"],
     "ARMA": ["AUG", "BERYL", "SCAR", "GROZA", "M249", "MG3", "TOMMY"],
-    "SMG": ["9MM", "UMP", "MP5", "JS9", "UZI", "BIZON", "MP9"],
+    "SMG": ["UMP", "MP5", "JS9", "UZI", "BIZON", "MP9"],
     "SNIPER": ["KAR98", "MOSIN", "AWM", "LYX", "M24"]
 }
