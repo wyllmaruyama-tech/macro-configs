@@ -1,0 +1,17 @@
+{
+  "versao_macro": "1.4",
+  "modo_manutencao": false,
+  "mensagem_servidor": "🚀 Macro iniciado com sucesso! Boas jogadas.",
+  "urls": {
+    "recoil_list": "https://raw.githubusercontent.com/wyllmaruyama-tech/macro-configs/refs/heads/main/recoil_path.json",
+    "mapa_rec": "https://raw.githubusercontent.com/wyllmaruyama-tech/macro-configs/refs/heads/main/mapa_rec.json",
+    "mapa_att": "https://raw.githubusercontent.com/wyllmaruyama-tech/macro-configs/refs/heads/main/mapa_att.json",
+    "mapa_mult": "https://raw.githubusercontent.com/wyllmaruyama-tech/macro-configs/refs/heads/main/mapa_mult.json",
+    "ajustes_mira":"https://raw.githubusercontent.com/wyllmaruyama-tech/macro-configs/refs/heads/main/ajustes_mira.json",
+  },
+  "opcoes_dinamicas": {
+    "MIRAS": ["x1", "x2", "x3", "x4", "x6", "x8"],
+    "ARMAS_ATIVAS": ["AKM", "M416", "Beryl M762", "ACE32", "AUG", "SCAR-L", "G36C"],
+    "SMG_ATIVAS": ["Vector", "UMP45", "Micro UZI", "MP5K"]
+  }
+}
