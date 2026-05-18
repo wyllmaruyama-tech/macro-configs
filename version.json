@@ -1,10 +1,10 @@
 {
-  "version": "1.4",
+  "version": "1.2",
   "urls": {
-    "recoil_list": "https://raw.githubusercontent.com/wyllmaruyama-tech/macro-configs/refs/heads/main/recoil_path.json",
-    "mapa_rec": "https://raw.githubusercontent.com/wyllmaruyama-tech/macro-configs/refs/heads/main/mapa_rec.json",
-    "mapa_att": "https://raw.githubusercontent.com/wyllmaruyama-tech/macro-configs/refs/heads/main/mapa_att.json",
-    "mapa_mult": "https://raw.githubusercontent.com/wyllmaruyama-tech/macro-configs/refs/heads/main/mapa_mult.json",
-    "ajustes_mira": "https://raw.githubusercontent.com/wyllmaruyama-tech/macro-configs/refs/heads/main/ajustes_mira.json"
+    "recoil_list": "https://gist.githubusercontent.com/wyllmaruyama-tech/be6edfa209a4401c02a7c911a75d5753/raw/recoil_path.json",
+    "mapa_rec": "https://gist.githubusercontent.com/wyllmaruyama-tech/8ce16965b3295d9500895e34437602bd/raw/mapa_rec.json",
+    "mapa_att": "https://gist.githubusercontent.com/wyllmaruyama-tech/0b8b6e1553ce43e5ec6fe9d83c83955a/raw/mapa_att.json",
+    "mapa_mult": "https://gist.githubusercontent.com/wyllmaruyama-tech/a7685382d743e80d448d66a882c27de2/raw/mapa_mult.json",
+    "ajustes_mira": "https://gist.githubusercontent.com/wyllmaruyama-tech/1f4244c8cd792a6bc19511719285db4a/raw/ajustes_mira.json"
   }
 }
